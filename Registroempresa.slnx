@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RegAccess_API/RegAccess_API.csproj" Id="214b87eb-f0ce-4dfe-8279-f0d993e19a1d" />
+  <Project Path="Registroempresa/Registroempresa.csproj" />
+</Solution>
